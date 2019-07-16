@@ -1,0 +1,1 @@
+/home/namtx/workspace/rust/reading-rust-programming/chapter_11/adder/target/debug/integration_test-86ca0f2a00bc4136: /home/namtx/workspace/rust/reading-rust-programming/chapter_11/adder/src/lib.rs /home/namtx/workspace/rust/reading-rust-programming/chapter_11/adder/tests/integration_test.rs
